@@ -1,0 +1,19 @@
+# Compiled binaries and release packages
+Release/
+TempSource/
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+
+# Local configuration and logs
+config.json
+history.json
+*.log
