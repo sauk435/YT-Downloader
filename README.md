@@ -54,7 +54,7 @@ You can find both editions ready to use in the **`Release/`** folder:
 ### 2. Local Setup
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/youtube-downloader.git
+git clone https://github.com/sauk435/youtube-downloader.git
 cd youtube-downloader
 
 # 2. Install dependencies
